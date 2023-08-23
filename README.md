@@ -24,7 +24,11 @@ To get the most out of the workshop participants can:
 * [Get in touch](#get-in-touch) and let us know if there's anything else you think should be covered in the workshop.
 
 ## Get in Touch
+[Start a discussion here](https://github.com/thompson318/rsecon23-workshop41/discussions/1)
 
+[Raise an issue on our template](https://github.com/SciKit-Surgery/sustainable-pkg-stats/issues)
+
+[SciKit-Surgery on Twitter](https://twitter.com/scikit_surgery)
 
 ## Further Reading
 [Greg Wilson, "Software Engineering's Greatest Hits"](https://www.youtube.com/watch?v=HrVtA-ue-x0)
