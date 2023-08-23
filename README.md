@@ -39,3 +39,41 @@ To get the most out of the workshop participants can do the following optional a
 [Herraiz, Israel, and Ahmed E. Hassan. "Beyond lines of code: Do we need more complexity metrics." Making software: what really works, and why we believe it (2010)](https://scholar.google.com/scholar?cites=1798345095139997794&as_sdt=2005&sciodt=0,5&hl=en)
 
 [El Emam, Khaled, Saïda Benlarbi, Nishith Goel, and Shesh N. Rai. "The confounding effect of class size on the validity of object-oriented metrics."](https://scholar.google.com/scholar?cites=13769382434398576695&as_sdt=2005&sciodt=0,5&hl=en)
+
+## Contributors
+Thanks goes to all these people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):  
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+	<!-- CONTRIBUTOR -->
+	<td align="center">
+		<!-- ADD GITHUB USERNAME AND HASH FOR GITHUB PHOTO -->
+		<a href="https://github.com/???"><img src="https://avatars1.githubusercontent.com/u/23114020?v=4?s=100" width="100px;" alt=""/>
+		<br />
+			<sub> <b>ADD NAME SURNAME</b> </sub>        
+		</a>
+		<br />
+			<!-- ADD GITHUB REPOSITORY AND PROJECT, TITLE AND EMOJIS -->
+			<a href="https://github.com/$PROJECTNAME/$REPOSITORY_NAME/commits?author=" title="Research">  🔬 🤔  </a>
+	</td>
+	<!-- CONTRIBUTOR -->
+	<td align="center">
+		<a href="https://github.com/mxochicale"><img src="https://avatars1.githubusercontent.com/u/11370681?v=4?s=100" width="100px;" alt=""/>
+			<br />
+			<sub><b>Miguel Xochicale</b></sub>          
+			<br />
+		</a>
+			<a href="https://github.com/mxochicale/in2research2023/commits?author=mxochicale" title="Code">💻</a> 
+			<a href="ttps://github.com/mxochicale/in2research2023/commits?author=mxochicale" title="Documentation">📖  🔧 </a>
+	</td>
+  </tr>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This work follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.  
+Contributions of any kind welcome!
