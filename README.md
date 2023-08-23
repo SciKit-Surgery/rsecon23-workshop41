@@ -25,7 +25,7 @@ To get the most out of the workshop participants can do the following optional a
 * [Get in touch](#get-in-touch) and let us know if there's anything else you think should be covered in the workshop.
 
 ## Get in Touch
-[Start a discussion here](https://github.com/thompson318/rsecon23-workshop41/discussions/1)
+[Start a discussion here](https://github.com/SciKit-Surgery/rsecon23-workshop41/discussions/1)
 
 [Raise an issue on our template](https://github.com/SciKit-Surgery/sustainable-pkg-stats/issues)
 
