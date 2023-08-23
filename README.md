@@ -14,9 +14,17 @@ The workshop will consist of;
 * A short wrap up. 
 
 ## Before the Worshop
-To get the most out of the workshop participants can
+To get the most out of the workshop participants can:
+* Take a look at our software sustainability dashboard [template](https://github.com/SciKit-Surgery/sustainable-pkg-stats). Follow the instructions in the README.
+* Think about whether the dashboard is going to work for your software.
+* Is there other opensource software that you would like to try the dashboard on?
+* Check out the [further reading](#further-reading).
+* Think about what you think sustainable software is.
+* Think about what you think the most important metrics are for sustainable software.
+* [Get in touch](#get-in-touch) and let us know if there's anything else you think should be covered in the workshop.
 
 ## Get in Touch
+
 
 ## Further Reading
 [Greg Wilson, "Software Engineering's Greatest Hits"](https://www.youtube.com/watch?v=HrVtA-ue-x0)
