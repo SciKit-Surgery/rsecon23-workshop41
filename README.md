@@ -13,11 +13,11 @@ The workshop will consist of;
 * half an hour of discussion (face to face and using mentimeter)
 * A short wrap up. 
 
-## Before the Worshop
+## Before the Workshop
 To get the most out of the workshop participants can:
 * Take a look at our software sustainability dashboard [template](https://github.com/SciKit-Surgery/sustainable-pkg-stats). Follow the instructions in the README.
 * Think about whether the dashboard is going to work for your software.
-* Is there other opensource software that you would like to try the dashboard on?
+* Is there other open-source software that you would like to try the dashboard on?
 * Check out the [further reading](#further-reading).
 * Think about what you think sustainable software is.
 * Think about what you think the most important metrics are for sustainable software.
