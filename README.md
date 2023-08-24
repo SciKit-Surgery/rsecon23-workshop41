@@ -15,7 +15,7 @@ The workshop will consist of;
 
 ## Before the Workshop
 To get the most out of the workshop participants can do the following optional activities:
-* Please let us know a little about yourself with our [pre-workshop questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwrJ1FrGauQRMgCPkBTR2amlUQjJGVzlKQldQN0xLNE5WWERSRkFVSDdQVC4u)
+* Please let us know a little about yourself with our [pre-workshop survey](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwuNcJ7ofdGhDpRexUha3NYhUMzFWSlRST0pZM003QzdSODM0MkNTVUZSRy4u)
 * Take a look at our software sustainability dashboard [template](https://github.com/SciKit-Surgery/sustainable-pkg-stats). Follow the instructions in the README.
 * Think about whether the dashboard is going to work for your software.
 * Is there other open-source software that you would like to try the dashboard on?
