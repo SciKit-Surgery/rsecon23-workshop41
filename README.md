@@ -14,6 +14,10 @@ The workshop will consist of;
 * A short wrap up. 
 
 ## Before the Workshop
+### Essential
+The template is designed to run on GitHub actions. Please create a GitHub account before the workshop.
+
+### Optional
 To get the most out of the workshop participants can do the following optional activities:
 * Please let us know a little about yourself with our [pre-workshop survey](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwuNcJ7ofdGhDpRexUha3NYhUMzFWSlRST0pZM003QzdSODM0MkNTVUZSRy4u).
 * Take a look at our software sustainability dashboard [template](https://github.com/SciKit-Surgery/sustainable-pkg-stats). Follow the instructions in the README.
