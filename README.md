@@ -15,8 +15,9 @@ The workshop will consist of;
 
 ## Before the Workshop
 ### Essential
-The template is designed to run on GitHub actions. Please create a GitHub account before the workshop.
-
+* The template is designed to run on GitHub actions. Please create a GitHub account before the workshop.
+* You will need Python and Git on your laptop.
+  
 ### Optional
 To get the most out of the workshop participants can do the following optional activities:
 * Please let us know a little about yourself with our [pre-workshop survey](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwuNcJ7ofdGhDpRexUha3NYhUMzFWSlRST0pZM003QzdSODM0MkNTVUZSRy4u).
