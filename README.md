@@ -1,6 +1,8 @@
 # RSECon23 Workshop 41: How to use and contribute to a software sustainability dashboard
 These are materials for our [workshop at RSECon2023](https://virtual.oxfordabstracts.com/#/event/4430/submission/41), taking place September 6th in Swansea UK. You will find links to workshop materials and activities to perform before and after the workshop. 
 
+The presented version and survey results are now published at [https://doi.org/10.5281/zenodo.8337479](https://doi.org/10.5281/zenodo.8337479).
+
 ## Workshop Aims
 The workshop seeks to contribute to a better understanding of what sustainable research software is and how improving sustainability leads to increased impact. 
 
